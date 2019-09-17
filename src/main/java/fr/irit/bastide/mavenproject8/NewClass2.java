@@ -10,6 +10,6 @@ package fr.irit.bastide.mavenproject8;
  * @author rbastide
  */
 public class NewClass2 {
-	// user2
+	// user2 xxx
 	// user1 modifies new file
 }
