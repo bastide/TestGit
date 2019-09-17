@@ -11,5 +11,5 @@ package fr.irit.bastide.mavenproject8;
  */
 public class NewClass {
 	///
-	
+	/// second user added a line
 }
