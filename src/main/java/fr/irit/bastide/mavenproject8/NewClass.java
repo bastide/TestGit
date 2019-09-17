@@ -10,5 +10,6 @@ package fr.irit.bastide.mavenproject8;
  * @author rbastide
  */
 public class NewClass {
+	///
 	
 }
